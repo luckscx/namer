@@ -1,0 +1,16 @@
+{
+  "name": "poet_namer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pick.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cnchar": "^2.2.3",
+    "colors": "^1.4.0",
+    "opencc": "^1.1.1"
+  }
+}
